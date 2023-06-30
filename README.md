@@ -1,5 +1,8 @@
 # AWS Certified Solutions Architect Associate Study Repository
 
+![badge](./badge.png)
+
+
 Este repositório contém um cronograma de estudo preparatório de 8 semanas para a certificação AWS Certified Solutions Architect Associate. O objetivo desta certificação é validar seus conhecimentos e habilidades em projetar e implantar sistemas escaláveis, altamente disponíveis e tolerantes a falhas na plataforma de nuvem Amazon Web Services (AWS).
 
 ## Cronograma de Estudo
