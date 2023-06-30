@@ -6,6 +6,27 @@
 
 Este repositório contém um cronograma de estudo preparatório de 8 semanas para a certificação AWS Certified Solutions Architect Associate. O objetivo desta certificação é validar seus conhecimentos e habilidades em projetar e implantar sistemas escaláveis, altamente disponíveis e tolerantes a falhas na plataforma de nuvem Amazon Web Services (AWS).
 
+
+## Materiais Adicionais
+
+### Mapas mentais:
+
+<p align="center" width="100%">
+    <img src="./mapa.png"> 
+</p>
+
+- [Instalação XMind](https://xmind.app/desktop/thank-you-for-downloading/)
+- [Modelo de mapa mental](./aws-mindmap.xmind) *Criar seu mapa mental faz parte do estudo*
+
+### Mapas por service
+
+- [Aplication](./AWS%20Aplication.xmind)
+- [Compute](./AWS%20Compute.xmind)
+- [Database](./AWS%20Database.xmind)
+- [Management Tools](./AWS%20Management%20Tools.xmind)
+- [Storage](./AWS%20Storage.xmind)
+
+
 ## Cronograma de Estudo
 
 Dividimos os materiais de estudo em um plano de estudo de 8 semanas, que oferece uma abordagem estruturada para cobrir os objetivos do exame e construir uma base sólida em arquitetura e serviços da AWS. Cada semana é focada em tópicos específicos e fornece links para recursos relevantes para auxiliar sua jornada de aprendizado.
