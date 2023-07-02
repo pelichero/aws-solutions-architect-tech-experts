@@ -20,11 +20,11 @@ Este repositório contém um cronograma de estudo preparatório de 8 semanas par
 
 ### Mapas por service
 
-- [Aplication](./AWS%20Aplication.xmind)
-- [Compute](./AWS%20Compute.xmind)
-- [Database](./AWS%20Database.xmind)
-- [Management Tools](./AWS%20Management%20Tools.xmind)
-- [Storage](./AWS%20Storage.xmind)
+- [Aplication](./mapas/AWS%20Aplication.xmind)
+- [Compute](./mapas/AWS%20Compute.xmind)
+- [Database](./mapas/AWS%20Database.xmind)
+- [Management Tools](./mapas/AWS%20Management%20Tools.xmind)
+- [Storage](./mapas/AWS%20Storage.xmind)
 
 
 ## Cronograma de Estudo
@@ -37,6 +37,12 @@ Dividimos os materiais de estudo em um plano de estudo de 8 semanas, que oferece
 - Explorando a segurança de rede no Amazon Virtual Private Cloud (VPC)
 - Entendendo o AWS Web Application Firewall (WAF)
 - Prática com configurações de segurança e políticas de acesso
+
+#### EXERCICIOS
+
+- :blue_book: :watch: 15min AWS Identity and Access Management - Basics (Portuguese)
+- :rocket: Lab :watch: 45min - Introduction to AWS Identity and Access Management (IAM)
+
 
 ### Semanas 2 e 3: Domínio 2 - Design de Arquiteturas Resilientes
 - Arquitetura de alta disponibilidade com AWS Elastic Load Balancer (ELB)
