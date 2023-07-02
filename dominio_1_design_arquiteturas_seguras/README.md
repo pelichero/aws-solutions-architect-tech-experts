@@ -1,5 +1,38 @@
 # Dominio 1: Design de arquiteturas seguras.
 
+- :blue_book: :watch: 15min AWS Identity and Access Management - Basics (Portuguese)
+- :rocket: Lab :watch: 45min - Introduction to AWS Identity and Access Management (IAM)
+- :blue_book: :watch: 3h  Getting Started with AWS Security, Identity, and Compliance (Portuguese)
+
+    ##### INTRODUÇÃO AO CURSO
+    - Visão geral 100 Percent Complete
+    - On-premises e a Nuvem AWS 100 Percent Complete
+    - Segurança na nuvem AWS 100 Percent Complete
+    - O AWS Well-Architected Framework 100 Percent Complete
+
+    ##### IDENTITY AND ACCESS MANAGEMENT
+    - Autenticação versus Autorização 100 Percent Complete
+    - AWS IAM para gerenciamento de acesso 100 Percent Complete
+    - Amazon Cognito para autenticação móvel 100 Percent Complete
+    - AWS Directory Service para federação de usuários 100 Percent Complete
+
+    ##### CONTROLES DE DETECÇÃO
+    - Visão geral do monitoramento 100 Percent Complete
+    - Amazon GuardDuty para detecção de ameaças 100 Percent Complete
+    - AWS Security Hub para priorização de descobertas 100 Percent Complete
+    - Amazon Macie para monitoramento de dados 100 Percent Complete
+    - AWS WAF para filtragem de tráfego 100 Percent Complete
+    - AWS Shield para proteção contra DDoS 100 Percent Complete
+
+    ##### PROTEÇÃO DE DADOS
+    - Criptografia na AWS 100 Percent Complete
+    - AWS KMS para gerenciamento de chaves 100 Percent Complete
+    - AWS Certificate Manager para proteger as comunicações 100 Percent Complete
+    - AWS Secrets Manager para gerenciamento de credenciais 100 Percent Complete
+
+    ##### RESPOSTA A INCIDENTES
+    - Repensar a resposta a incidentesRepensar a resposta a incidentes 100 Percent Complete
+    - AWS Config para responder a incidentes
 
 ## IAM (Identity and Access Management)
 

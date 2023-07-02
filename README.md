@@ -9,6 +9,17 @@ Este repositório contém um cronograma de estudo preparatório de 8 semanas par
 
 ## Materiais Adicionais
 
+### Tecnicas de estudo
+
+Anki Flashcards:
+https://www.youtube.com/watch?v=WmPx333n5UQ
+
+Pomodoro Tecnique:
+https://www.youtube.com/watch?v=mNBmG24djoY
+
+Flow state
+https://en.wikipedia.org/wiki/Flow_(psychology)
+
 ### Mapas mentais:
 
 <p align="center" width="100%">
@@ -38,10 +49,7 @@ Dividimos os materiais de estudo em um plano de estudo de 8 semanas, que oferece
 - Entendendo o AWS Web Application Firewall (WAF)
 - Prática com configurações de segurança e políticas de acesso
 
-#### EXERCICIOS
-
-- :blue_book: :watch: 15min AWS Identity and Access Management - Basics (Portuguese)
-- :rocket: Lab :watch: 45min - Introduction to AWS Identity and Access Management (IAM)
+[Exercicios, conteudos e informacoes sobre o dominio](./dominio_1_design_arquiteturas_seguras/README.md)
 
 
 ### Semanas 2 e 3: Domínio 2 - Design de Arquiteturas Resilientes
