@@ -49,7 +49,7 @@ Dividimos os materiais de estudo em um plano de estudo de 8 semanas, que oferece
 - Entendendo o AWS Web Application Firewall (WAF)
 - Prática com configurações de segurança e políticas de acesso
 
-[Exercicios, conteudos e informacoes sobre o dominio](./dominio_1_design_arquiteturas_seguras/README.md)
+[Exercicios, conteudos e informacoes sobre o dominio](./dominio_1_design_arquiteturas_seguras/dominio_1.md)
 
 
 ### Semanas 2 e 3: Domínio 2 - Design de Arquiteturas Resilientes
