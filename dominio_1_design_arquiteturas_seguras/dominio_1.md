@@ -5,7 +5,7 @@
 - :blue_book: :watch: 15min AWS Identity and Access Management - Basics (Portuguese)
 - :rocket: Lab :watch: 45min - Introduction to AWS Identity and Access Management (IAM)
 - :blue_book: :watch: 3h  Getting Started with AWS Security, Identity, and Compliance (Portuguese)
-- :rocket: Lab :watch: 2h - Role Assumption Challenge (Portuguese)
+- :rocket: Lab :watch: 2h - Role Assumption Challenge (Portuguese) [desafio?](./desafio/desafio.md)
 
 
     ##### INTRODUÇÃO AO CURSO
@@ -43,13 +43,13 @@
 - [Security](./mapas/security_map.xmind)
 
 <p align="center" width="100%">
-    <img src="./security_map.png"> 
+    <img src="./images/security_map.png"> 
 </p>
 
 #### Pilares de seguranca
 
 <p align="center" width="100%">
-    <img src="./security_pillars.png"> 
+    <img src="./images/security_pillars.png"> 
 </p>
 
 
