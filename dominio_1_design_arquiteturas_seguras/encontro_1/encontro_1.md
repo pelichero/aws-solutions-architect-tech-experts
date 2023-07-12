@@ -11,7 +11,7 @@ aws iam list-groups-for-user --user-name fepelichero
 
 Assumir role
 ```
-aws sts assume-role --role-arn arn:aws:iam::741633597846:role/role-to-do-nothing --role-session-name MySession
+aws sts assume-role --role-arn arn:aws:iam::<<account>>:role/role-to-do-nothing --role-session-name MySession
 ```
 
 Assumir a role:
